@@ -20,9 +20,7 @@ class Templating
     }
 
     /**
-     * Initialise the engine here. Doing it here, rather than the
-     * constructor, allows us to override the directory easily
-     * in child classes.
+     * 
      *
      * @param $string $templatePath Path to template files.
      * @return void
